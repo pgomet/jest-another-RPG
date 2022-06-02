@@ -4,14 +4,13 @@
     "description": "",
     "main": "app.js",
     "scripts": {
-      "test": "jest"
+        "test": "jest"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "dependencies": {
-      "inquirer": "^7.0.3",
-      "jest": "^24.9.0"
+        "inquirer": "^7.3.3",
+        "jest": "^24.9.0"
     }
-  }
-  
+}
